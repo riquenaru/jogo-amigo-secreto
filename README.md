@@ -1,13 +1,15 @@
 # Jogo Amigo Secreto
 
-Um aplicativo simples e divertido para organizar sorteios de amigo secreto. Com ele, você pode adicionar nomes, exibir uma lista de participantes e sortear aleatoriamente um amigo secreto de maneira prática e intuitiva.
+Este é um Ótimo jogo simples e divertido para organizar sorteios de amigo secreto. Com ele, você pode adicionar nomes, visualizar a lista de participantes e realizar o sorteio de forma aleatória
+e intuitiva.
+
 
 ##  Funcionalidades
 
 -   **Adicionar participantes:** Digite os nomes no campo de texto e os adicione à lista de participantes.
--   **Exibir lista:** Visualize todos os amigos que foram adicionados.
--   **Remover participantes:** Remova qualquer participante da lista com um clique.
--   **Sortear amigo secreto:** Escolha aleatoriamente um participante e exiba o resultado.
+-   **Visualizar listaa:** Visualize todos os amigos que foram adicionados. A lista de participantes é atualizada automaticamente a cada adição ou remoção.
+-   **Remover participantes:** Clique no botão "Remover" ao lado do nome para excluir um participante da lista.
+-   **Sortear amigo secreto:** Clique no botão "Sortear amigo" para realizar o sorteio. Os resultados serão exibidos na tela, mostrando quem tirou quem.
 
 ##  Tecnologias Utilizadas
 
